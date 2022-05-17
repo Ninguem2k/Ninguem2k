@@ -1,8 +1,8 @@
 ## Oiii! Eu sou a Cássio Gabriel
  <div>
   <a align="right" href="https://github.com/Ninguem2k">
-  <img  height="25%" src="https://github-readme-stats.vercel.app/api?username=Ninguem2k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem2k&layout=compact&langs_count=7&theme=dracula"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ninguem2k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem2k&layout=compact&langs_count=7&theme=dracula"/>
      <img align="right"  alt="fogo" src="https://i.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif">
 </div>
 <div style="display: inline_block"><br>
