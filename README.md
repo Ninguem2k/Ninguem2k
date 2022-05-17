@@ -20,6 +20,6 @@
  
 <div> 
  
-  ![Snake animation](https://github.com/Ninguem2k/Ninguem/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ninguem2k/Ninguem2k/blob/output/github-contribution-grid-snake.svg)
  
 </div>
