@@ -31,7 +31,7 @@
     <img align="center" height="25" width="100" src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/gmail_button_icon_151848.png" alt="email">
 </a>
 
-<a href="mailto:cassioriachinho@gmail.com">
+<a href=""https://t.me/553899256330">
     <img align="center" height="25" width="100"  src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/telegram_button_icon_151837.png" alt="Telegram">
 </a>
 
@@ -43,6 +43,4 @@
 - ⚡ Curiosidade: Faço (BSI) Bacharelado em Sistemas de Informação e fiz (TI) Técnico em Informática - Integrado no IFNMG - Campus Arinos</br>
 </div>
  
-   <a align="right" href="https://github.com/Ninguem2k">
 
-   </a>
