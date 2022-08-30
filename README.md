@@ -4,7 +4,7 @@
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ninguem2k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem2k&layout=compact&langs_count=7&theme=dracula"/>
      <img align="right"  alt="fogo" src="https://i.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif">
- </a>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +18,7 @@
   <img align="center" alt="Laravel" height="50" width="50" src="https://icongr.am/devicon/laravel-plain.svg?size=105&color=e8e8e8">
   <img align="center" alt="React" height="50" width="50" src="https://icongr.am/devicon/react-original.svg?size=105&color=e8e8e8">
 </div>
-  
+   </a>
 <div>
  - 🔭 Atualmente estou trabalhando na empresa <a href="https://7system.inf.br/">7System</a></br>
 - 🌱 Atualmente estou aprendendo Laravel framework da liguagem PHP e Ingles.</a></br>
