@@ -43,4 +43,8 @@
 - ⚡ Curiosidade: Faço (BSI) Bacharelado em Sistemas de Informação e fiz (TI) Técnico em Informática - Integrado no IFNMG - Campus Arinos</br>
 </div>
  
+   <a align="right" href="https://github.com/Ninguem2k">
+  <img  height="160em" src=" https://2.bp.blogspot.com/-DEfMwpiY2hY/Wc5NRnaHoMI/AAAAAAAAAEM/0XTUNNgDch8bImrIJK2d4Fp_aOuUt1SmQCK4BGAYYCw/s1600/star-wars-command-prompt.gif"/>
+ </a>
+
 
