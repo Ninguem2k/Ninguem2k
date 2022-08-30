@@ -13,11 +13,20 @@
   <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="BOOTSTAP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="docker" height="50" width="50" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
-  https://icongr.am/devicon/git-original.svg?size=128&color=currentColor
+  <img align="center" alt="git" height="50" width="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Laravel" height="50" width="50" src="https://icongr.am/devicon/laravel-plain.svg?size=105&color=e8e8e8">
+  <img align="center" alt="React" height="50" width="50" src="https://icongr.am/devicon/react-original.svg?size=105&color=e8e8e8">
+
 
 </div>
   
-  ##
+<div>
+- 🔭 Atualmente estou trabalhando na empresa <a align="right" href="https://7system.inf.br/">7System</a>
+- 🌱 Atualmente estou aprendendo Laravel framework da liguagem PHP e Ingles
+- 💬 Pergunte-me sobre qualquer coisas se eu não souber garanto que depos de 2 horas te darei a melhor melhor resposta possivel.
+- 📫 Como entrar em contato comigo:
+- ⚡ Curiosidade: Faço (BSI) Bacharelado em Sistemas de Informação e fiz (TI) Técnico em Informática - Integrado no IFNMG - Campus Arinos
+</div>
  
 <div> 
 
