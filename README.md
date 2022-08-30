@@ -25,15 +25,15 @@
 - 💬 Pergunte-me sobre qualquer coisa se eu não souber garanto que depois de 2 horas te darei a melhor melhor resposta possível.</br>
 - 📫 Como entrar em contato comigo:
 <a href="mailto:cassioriachinho@gmail.com">
-    <img align="center" height="50" width="300" src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/gmail_button_icon_151848.png" alt="email">
+    <img align="center" height="50" width="150" src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/gmail_button_icon_151848.png" alt="email">
 </a>
 
 <a href="mailto:cassioriachinho@gmail.com">
-    <img align="center" height="50" width="300"  src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/telegram_button_icon_151837.png" alt="Telegram">
+    <img align="center" height="50" width="150"  src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/telegram_button_icon_151837.png" alt="Telegram">
 </a>
 
 <a href="https://wa.me/55038999256330">
-    <img  align="center" height="50" width="300"  src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/whatsapp_button_icon_151832.png" alt="Whatssapp">
+    <img  align="center" height="50" width="150"  src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/whatsapp_button_icon_151832.png" alt="Whatssapp">
 </a>
 
 </br>
