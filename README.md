@@ -31,7 +31,7 @@
     <img align="center" height="25" width="100" src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/gmail_button_icon_151848.png" alt="email">
 </a>
 
-<a href=""https://t.me/553899256330">
+<a href="https://t.me/553899256330">
     <img align="center" height="25" width="100"  src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/telegram_button_icon_151837.png" alt="Telegram">
 </a>
 
