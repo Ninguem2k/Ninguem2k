@@ -3,7 +3,6 @@
   <a align="right" href="https://github.com/Ninguem2k">
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Ninguem2k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem2k&layout=compact&langs_count=7&theme=dracula"/>
-  <img align="right"  alt="fogo" src="https://i.kym-cdn.com/photos/images/newsfeed/000/228/791/632.gif">
 </div>
  
 <div style="display: inline_block"><br>
@@ -44,7 +43,7 @@
 </div>
  
    <a align="right" href="https://github.com/Ninguem2k">
-  <img  height="160em" src=" https://2.bp.blogspot.com/-DEfMwpiY2hY/Wc5NRnaHoMI/AAAAAAAAAEM/0XTUNNgDch8bImrIJK2d4Fp_aOuUt1SmQCK4BGAYYCw/s1600/star-wars-command-prompt.gif"/>
+ ![star-wars]([name-of-giphy.gif](https://2.bp.blogspot.com/-DEfMwpiY2hY/Wc5NRnaHoMI/AAAAAAAAAEM/0XTUNNgDch8bImrIJK2d4Fp_aOuUt1SmQCK4BGAYYCw/s1600/star-wars-command-prompt.gif))
  </a>
 
 
