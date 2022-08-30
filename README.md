@@ -19,11 +19,11 @@
 </div>
   
 <div>
-- 🔭 Atualmente estou trabalhando na empresa <a href="https://7system.inf.br/">7System</a>
-- 🌱 Atualmente estou aprendendo Laravel framework da liguagem PHP e Ingles
-- 💬 Pergunte-me sobre qualquer coisas se eu não souber garanto que depos de 2 horas te darei a melhor melhor resposta possivel.
+ - 🔭 Atualmente estou trabalhando na empresa <a href="https://7system.inf.br/">7System</a></br>
+- 🌱 Atualmente estou aprendendo Laravel framework da liguagem PHP e Ingles.</a></br>
+- 💬 Pergunte-me sobre qualquer coisas se eu não souber garanto que depos de 2 horas te darei a melhor melhor resposta possivel.</a></br>
 - 📫 Como entrar em contato comigo:
-- ⚡ Curiosidade: Faço (BSI) Bacharelado em Sistemas de Informação e fiz (TI) Técnico em Informática - Integrado no IFNMG - Campus Arinos
+- ⚡ Curiosidade: Faço (BSI) Bacharelado em Sistemas de Informação e fiz (TI) Técnico em Informática - Integrado no IFNMG - Campus Arinos</a></br>
 </div>
  
 <div> 
