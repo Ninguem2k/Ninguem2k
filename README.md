@@ -19,6 +19,7 @@
   <img align="center" alt="React" height="50" width="50" src="https://icongr.am/devicon/react-original.svg?size=105&color=e8e8e8">
 </div>
    </a>
+   </br></br>   
 <div>
 - 🔭 Atualmente estou trabalhando na empresa <a href="https://7system.inf.br/">7System</a> como suporte e desevolverdor web.</br>
 - 🌱 Atualmente estou aprendendo Laravel framework da linguagem PHP e Inglês.</br>
