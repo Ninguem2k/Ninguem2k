@@ -4,11 +4,7 @@
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Ninguem2k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem2k&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<center>
-   <a align="center" href="https://github.com/Ninguem2k">
-   <img align="center"  src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%"    height="500" />
- </a>
-</center>
+
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -48,5 +44,9 @@
 </div>
 </br></br>
 
- 
+ <center>
+   <a align="center" href="https://github.com/Ninguem2k">
+   <img align="center"  src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%"    height="500" />
+ </a>
+</center>
 
