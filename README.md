@@ -44,7 +44,7 @@
 </br></br>
 <center>
    <a align="center" href="https://github.com/Ninguem2k">
-   <img align="center"  src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="50%"    height="200" />
+   <img align="center"  src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%"    height="500" />
  </a>
 </center>
  
