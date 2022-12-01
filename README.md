@@ -28,7 +28,7 @@
 <div>
 - 💼 Atualmente estou trabalhando na empresa <a href="https://7system.inf.br/">7System</a> como suporte e desevolverdor web.</br>
 - 👨‍💻  Meu portfólio profissional e pessoal:
-<a href="mailto:cassioriachinho@gmail.com">Portfólio</a></br>
+<a href="https://ninguem2k.github.io/Portifolio/">Portfólio</a></br>
 - 📚 Atualmente estou aprendendo Laravel framework da linguagem PHP e Inglês.</br>
 - 📫 Como entrar em contato comigo:
 <a href="mailto:cassioriachinho@gmail.com">
