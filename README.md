@@ -1,9 +1,11 @@
-## Oiii! me chamo Cássio Gabriel.
- <div>
-  <a align="right" href="https://github.com/Ninguem2k">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ninguem2k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem2k&layout=compact&langs_count=7&theme=dracula"/>
+## Oiii! me chamo Cássio Gabriel. <b>Contagem de visitante </b><img align="center" src="https://profile-counter.glitch.me/{Ninguem2k}/count.svg" />
+ <a align="right" href="https://github.com/Ninguem2k">
+ 
+ <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ninguem2k&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Cássio Gabriel" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem2k&layout=compact&hide_border=true&theme=dracula" />
 </div>
+
 
  
 <div style="display: inline_block"><br>
@@ -55,6 +57,8 @@
    <img align="center"  src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%"    height="250" />
  </a>
 
+<br>
+</div>
 
 </center>
 
