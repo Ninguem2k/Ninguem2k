@@ -30,6 +30,7 @@
 - 👨‍💻  Meu portfólio profissional e pessoal:
 <a href="https://ninguem2k.github.io/Portifolio/">Portfólio</a></br>
 - 📚 Atualmente estou aprendendo Laravel framework da linguagem PHP e Inglês.</br>
+- ✨ Meu Currículo em PDF: <a href="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/curr%C3%ADculo_C%C3%A1ssio%20Gabriel%20(1).pdf">Currículo</a></br>
 - 📫 Como entrar em contato comigo:
 <a href="mailto:cassioriachinho@gmail.com">
     <img align="center" height="25" width="100" src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/gmail_button_icon_151848.png" alt="email">
