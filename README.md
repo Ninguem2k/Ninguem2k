@@ -38,12 +38,15 @@
 - JavaScript, HTML, CSS
 - MySQL, PHP, Laravel
 - Java, Spring Boot
-- Docker, Git
+- Docker, Git,Scrum
 
 ## Como entrar em contato comigo
-- Email: [cassioriachinho@gmail.com](mailto:cassioriachinho@gmail.com)
-- Telegram: [@553899256330](https://t.me/553899256330)
 - WhatsApp: [+55 38 99925-6330](https://wa.me/55038999256330)
+- Linkedin: [cassio-gabriel-2k](https://www.linkedin.com/in/cassio-gabriel-2k)
+- Telegram: [@553899256330](https://t.me/553899256330)
+- Email: [cassioriachinho@gmail.com](mailto:cassioriachinho@gmail.com)
+
+
 
 ## Curiosidades 🌟
 
