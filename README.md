@@ -38,7 +38,7 @@
 - JavaScript, HTML, CSS
 - MySQL, PHP, Laravel
 - Java, Spring Boot
-- Docker, Git,Scrum
+- Docker, Git, Scrum
 
 ## Como entrar em contato comigo
 - WhatsApp: [+55 38 99925-6330](https://wa.me/55038999256330)
