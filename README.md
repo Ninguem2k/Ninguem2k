@@ -1,4 +1,5 @@
-## Oiii! me chamo Cássio Gabriel. <b>Contagem de visitante </b><img align="center" src="https://profile-counter.glitch.me/{Ninguem2k}/count.svg" />
+# Oi, eu sou o Cássio Gabriel! 👋        ![Contador de visitas](https://profile-counter.glitch.me/Ninguem2k/count.svg)
+
  <a align="right" href="https://github.com/Ninguem2k">
  
  <div align="center">  
@@ -23,42 +24,35 @@
 
   <img align="center" alt="React" height="50" width="50" src="https://icongr.am/devicon/react-original.svg?size=105&color=e8e8e8">
 </div>
- 
    </a>
    </br></br>   
-   
 <div>
-- 💼 Atualmente estou trabalhando na empresa <a href="https://7system.inf.br/">7System</a> como suporte e desevolverdor web.</br>
-- 👨‍💻  Meu portfólio profissional e pessoal:
-<a href="https://ninguem2k.github.io/Portifolio/">Portfólio</a></br>
-- 📚 Atualmente estou aprendendo Laravel framework da linguagem PHP e Inglês.</br>
-- ✨ Meu Currículo em PDF: <a href="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/curr%C3%ADculo_C%C3%A1ssio%20Gabriel%20(1).pdf">Currículo</a></br>
-- 📫 Como entrar em contato comigo:
-<a href="mailto:cassioriachinho@gmail.com">
-    <img align="center" height="25" width="100" src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/gmail_button_icon_151848.png" alt="email">
-</a>
 
+## Sobre mim
+- 💼 Trabalhando na [7System](https://7system.inf.br/) como suporte e desenvolvedor web.
+- 👨‍💻 Meu [portfólio profissional e pessoal](https://ninguem2k.github.io/Portifolio/).
+- ✨ [Currículo em PDF](https://github.com/Ninguem2k/Ninguem2k/blob/main/files/curr%C3%ADculo_C%C3%A1ssio%20Gabriel%20(1).pdf).
 
-<a href="https://t.me/553899256330">
-    <img align="center" height="25" width="100"  src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/telegram_button_icon_151837.png" alt="Telegram">
-</a>
+## Habilidades e Ferramentas
+- Bootstrap, React Native
+- JavaScript, HTML, CSS
+- MySQL, PHP, Laravel
+- Java, Spring Boot
+- Docker, Git
 
-<a href="https://wa.me/55038999256330">
-    <img  align="center" height="25" width="100"  src="https://github.com/Ninguem2k/Ninguem2k/blob/main/files/whatsapp_button_icon_151832.png" alt="Whatssapp">
-</a>
-</br>
- - 💬 Pergunte-me sobre qualquer coisa se eu não souber garanto que depois de 2 horas te darei a melhor melhor resposta possível.</br>
-- ⚡ Curiosidade: Faço (BSI) Bacharelado em Sistemas de Informação e fiz (TI) Técnico em Informática - Integrado no IFNMG - Campus Arinos</br>
-</div>
-</br></br>
+## Como entrar em contato comigo
+- Email: [cassioriachinho@gmail.com](mailto:cassioriachinho@gmail.com)
+- Telegram: [@553899256330](https://t.me/553899256330)
+- WhatsApp: [+55 38 99925-6330](https://wa.me/55038999256330)
 
- <center>
-   <a align="center" href="https://github.com/Ninguem2k">
-   <img align="center"  src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%"    height="250" />
- </a>
+## Curiosidades 🌟
 
-<br>
-</div>
+- 🎓 Bacharel em Sistemas de Informação (BSI) pelo IFNMG.
+- 💻 Técnico em Informática - Integrado pelo IFNMG.
 
+<center>
+   <a href="https://github.com/Ninguem2k">
+      <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="100%" height="250" />
+   </a>
 </center>
 
