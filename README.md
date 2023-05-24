@@ -48,7 +48,7 @@
 
 
 
-## Curiosidades 🌟
+## Formação 🌟
 
 - 🎓 Bacharel em Sistemas de Informação (BSI) pelo IFNMG.
 - 💻 Técnico em Informática - Integrado pelo IFNMG.
