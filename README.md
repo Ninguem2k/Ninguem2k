@@ -15,13 +15,14 @@
   <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MYSQL" height="30" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="center" alt="Laravel" height="50" width="50" src="https://icongr.am/devicon/laravel-plain.svg?size=105&color=e8e8e8">
+  <img align="center" alt="Laravel" height="70" width="70" src="https://www.svgrepo.com/show/376332/laravel.svg">
+  <img align="center" alt="CakePHP" height="40" width="40" src="https://www.cdnlogo.com/logos/c/60/cakephp.svg">
   <img align="center" alt="BOOTSTAP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="JAVA" height="50" width="50" src="https://github.com/Ninguem2k/Portifolio/blob/main/assets/img/icons/javaicon.svg">
-      <img align="center" alt="Spring Boot" height="50" width="50" src="https://github.com/Ninguem2k/Portifolio/blob/main/assets/img/icons/spring_boot-icon.svg">
+  <img align="center" alt="JAVA" height="50" width="50" src="https://github.com/Ninguem2k/Portifolio/blob/main/assets/img/icons/javaicon.svg">
+  <img align="center" alt="Spring Boot" height="50" width="50" src="https://github.com/Ninguem2k/Portifolio/blob/main/assets/img/icons/spring_boot-icon.svg">
   <img align="center" alt="docker" height="50" width="50" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor">
   <img align="center" alt="git" height="50" width="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-
+  <img align="center" alt="Delphi" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png">
   <img align="center" alt="React" height="50" width="50" src="https://icongr.am/devicon/react-original.svg?size=105&color=e8e8e8">
 </div>
    </a>
