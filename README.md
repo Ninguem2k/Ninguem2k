@@ -35,9 +35,9 @@
 - ✨ [Currículo em PDF](https://github.com/Ninguem2k/Ninguem2k/blob/main/files/curr%C3%ADculo_C%C3%A1ssio%20Gabriel%20(1).pdf).
 
 ## Habilidades e Ferramentas
+- MySQL, PHP, Laravel, CakePHP, Delphi
 - Bootstrap, React Native
 - JavaScript, HTML, CSS
-- MySQL, PHP, Laravel
 - Java, Spring Boot
 - Docker, Git, Scrum
 
