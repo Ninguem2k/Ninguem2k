@@ -30,7 +30,9 @@
 <div>
 
 ## Sobre mim
-- 💼 Trabalhando na [7System](https://7system.inf.br/) como suporte e desenvolvedor web.
+- 💼 Trabalho na [M&A](https://measistemas.com/) como  desenvolvedor web, desktop e mobile.
+- 💼 Trabalhei na [7System](https://7system.inf.br/) como suporte e desenvolvedor web e desktop.
+- 💼 Trabalhei na [InfoTech](https://www.infotechtecnologia.com/) como desenvolvedor web.
 - 👨‍💻 Meu [portfólio profissional e pessoal](https://ninguem2k.github.io/Portifolio/).
 - ✨ [Currículo em PDF](https://github.com/Ninguem2k/Ninguem2k/blob/main/files/curr%C3%ADculo_C%C3%A1ssio%20Gabriel%20(1).pdf).
 
