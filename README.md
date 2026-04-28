@@ -1,4 +1,4 @@
-# Oi, eu sou o Cássio Gabriel! 👋        ![Contador de visitas](https://profile-counter.glitch.me/Ninguem2k/count.svg)
+# Oi, eu sou o Cássio Gabriel! 👋   
 
  <a align="right" href="https://github.com/Ninguem2k">
  
@@ -30,7 +30,8 @@
 <div>
 
 ## Sobre mim
-- 💼 Trabalho na [M&A](https://measistemas.com/) como  desenvolvedor web, desktop e mobile.
+- 💼 Trabalho como [freelancer](https://cnpj.biz/58690565000128) como  desenvolvedor web, desktop e mobile.
+- 💼 Trabalhei na [M&A](https://measistemas.com/) como  desenvolvedor web, desktop e mobile.
 - 💼 Trabalhei na [7System](https://7system.inf.br/) como suporte e desenvolvedor web e desktop.
 - 💼 Trabalhei na [InfoTech](https://www.infotechtecnologia.com/) como desenvolvedor web.
 - 👨‍💻 Meu [portfólio profissional e pessoal](https://ninguem2k.github.io/Portifolio/).
@@ -38,7 +39,7 @@
 
 ## Habilidades e Ferramentas
 - MySQL, PHP, Laravel, CakePHP, Delphi
-- Bootstrap, React Native
+- Bootstrap, React, React Native
 - JavaScript, HTML, CSS
 - Java, Spring Boot
 - Docker, Git, Scrum
@@ -53,7 +54,7 @@
 
 ## Formação 🌟
 
-- 🎓 Bacharel em Sistemas de Informação (BSI) pelo IFNMG.
+- 🎓 Bacharel em Sistemas de Informação (BSI).
 - 💻 Técnico em Informática - Integrado pelo IFNMG.
 
 <center>
