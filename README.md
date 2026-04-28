@@ -32,6 +32,7 @@ Desenvolvedor freelancer com experiência sólida em **sistemas comerciais, PDV,
 
 ## <img src="https://user-images.githubusercontent.com/73097560/115834624-d21f2180-a411-11eb-908a-139a6edaec5c.gif" width="30px"> Experiência Profissional
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -77,6 +78,7 @@ Desenvolvedor freelancer com experiência sólida em **sistemas comerciais, PDV,
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
@@ -106,14 +108,18 @@ Desenvolvedor freelancer com experiência sólida em **sistemas comerciais, PDV,
 
 #### Banco de Dados & DevOps
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firebird](https://img.shields.io/badge/Firebird-E34F26?style=for-the-badge&logo=firebird&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 #### Metodologias
 
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 
 </div>
 
@@ -121,23 +127,37 @@ Desenvolvedor freelancer com experiência sólida em **sistemas comerciais, PDV,
 
 <!-- ═══════════════════ FORMAÇÃO ═══════════════════ -->
 
+<div align="center">
+
 ## <img src="https://user-images.githubusercontent.com/73097560/115834624-d21f2180-a411-11eb-908a-139a6edaec5c.gif" width="30px"> Formação Acadêmica
 
-| Grau | Instituição | Curso |
-|------|-------------|-------|
-| 🎓 Graduação | Universidade | Bacharel em Sistemas de Informação |
-| 💻 Técnico | IFNMG | Técnico em Informática (Integrado) |
+<table width="100%">
+  <tr>
+    <th align="center">Grau</th>
+    <th align="center">Instituição</th>
+    <th align="center">Curso</th>
+  </tr>
+  <tr>
+    <td align="center">🎓 Graduação</td>
+    <td align="center">Universidade</td>
+    <td align="center">Bacharel em Sistemas de Informação</td>
+  </tr>
+  <tr>
+    <td align="center">💻 Técnico</td>
+    <td align="center">IFNMG</td>
+    <td align="center">Técnico em Informática (Integrado)</td>
+  </tr>
+</table>
 
-<br/>
-
+</div>
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
 
 ## <img src="https://user-images.githubusercontent.com/73097560/115834624-d21f2180-a411-11eb-908a-139a6edaec5c.gif" width="30px"> GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ninguem2k&show_icons=true&count_private=true&hide_border=true&theme=dracula&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem2k&layout=compact&hide_border=true&theme=dracula&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ninguem2k&show_icons=true&count_private=true&hide_border=true&theme=dracula&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ninguem2k&layout=compact&hide_border=true&theme=dracula&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
